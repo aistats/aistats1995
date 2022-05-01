@@ -29,11 +29,14 @@ markdown: kramdown
 
 conference:
   draft: false # set to True if the programme is draft only.
-  image: hotel.jpg
+  image: 
   hide_tentative: true
   proceedings:
-    url: http://web.archive.org/web/20011127034212/http://www.vuse.vanderbilt.edu/~dfisher/ai-stats/fifth-workshop/springer-contents.html
+    url: http://proceedings.mlr.press/r0/
     show: true
+  # proceedings:
+  #   url: http://web.archive.org/web/20011127034212/http://www.vuse.vanderbilt.edu/~dfisher/ai-stats/fifth-workshop/springer-contents.html
+  #   show: true
   room: 
   venue: Hyatt Regency Pier 66
   venue_url: https://www.pier66hotelmarina.com/
