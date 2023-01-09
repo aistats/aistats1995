@@ -1,0 +1,44 @@
+draft: false # set to True if the programme is draft only.
+image: 
+hide_tentative: true
+proceedings:
+  url: http://proceedings.mlr.press/r0/
+  show: true
+# proceedings:
+#   url: http://web.archive.org/web/20011127034212/http://www.vuse.vanderbilt.edu/~dfisher/ai-stats/fifth-workshop/springer-contents.html
+#   show: true
+room: 
+venue: Hyatt Regency Pier 66
+venue_url: https://www.pier66hotelmarina.com/
+location: Ft. Lauderdale, FL, USA
+full_name: Artificial Intelligence and Statistics
+short_name: AISTATS
+name: Artificial Intelligence and Statistics
+year: 1995
+instance: 5th
+styling: International Workshop on
+dates:
+- 1995-01-04
+- 1995-01-07
+chairs:
+- type: General Chair
+  people:
+  - family: Fisher
+    given: Doug
+    institute: Vanderbilt University
+- type: Program Chair
+  people:
+  - family: Lenz
+    given: Hans-Joachim
+    institute: Free University, Berlin Germany
+    url:
+- type: Tutorial Chair
+  people:
+  - family: Shenoy
+    given: Prakash P.
+    institute: University of Kansas, USA
+- type: Local Arrangements
+  people:
+  - family: Pregibon
+    given: Daryl
+    institute: AT&T Bell Labs
